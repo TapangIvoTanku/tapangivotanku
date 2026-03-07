@@ -1,49 +1,39 @@
-# Hi, I'm Tapang Ivo Tanku 👋
+# Tapang Ivo Tanku
 
-**PhD Data Scientist | Dallas, Texas**
+**PhD Researcher, Political Science & Data Science | University at Buffalo, SUNY**
 
-[![Website](https://img.shields.io/badge/Website-tapangivotanku.com-0a66c2?style=flat-square&logo=google-chrome&logoColor=white)](https://tapangivotanku.com)
-[![Email](https://img.shields.io/badge/Email-tapang%40chomskytanku.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tapang@chomskytanku.com)
+[![Email](https://img.shields.io/badge/Email-tapangiv@buffalo.edu-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:tapangiv@buffalo.edu)
+[![Website](https://img.shields.io/badge/Website-tapangivotanku.com-brightgreen?style=flat-square&logo=google-chrome&logoColor=white)](https://tapangivotanku.com)
+[![SSRN](https://img.shields.io/badge/SSRN-Author_ID_4631838-informational?style=flat-square&logo=read-the-docs&logoColor=white)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4631838)
 
 ---
 
 ## About Me
 
-I am a **Data Scientist** with over **10 years of experience** understanding human behavior through data. I hold a **PhD in Data Science from National University** and have worked across the **marketing, banking, and technology industries**, including roles at several Fortune 100 companies.
+I am a **PhD Researcher** at the University at Buffalo, SUNY, specializing in the intersection of **international security, artificial intelligence, and political science**. My research leverages computational methods, including large language models and simulation, to analyze strategic decision-making in crisis bargaining and deterrence.
 
-I am passionate about **democratizing knowledge** — making complex data science concepts accessible to everyone, regardless of their background.
-
-> *"Data is the language of human behavior. My job is to translate it."*
+My work seeks to understand how emerging technologies are reshaping the landscape of global security. I am particularly interested in the strategic implications of AI, the potential for AI-driven deception, and the future of autonomous systems in high-stakes international contexts.
 
 ---
 
-## 🔬 What I Work On
+## 🔬 Featured Research
 
-- **Machine Learning & AI** — Building models that extract meaningful insights from complex datasets
-- **Natural Language Processing** — Text analysis, sentiment modeling, and document intelligence
-- **Behavioral Analytics** — Understanding how people make decisions through data
-- **Knowledge Democratization** — Making data science accessible to non-technical audiences
+### [The Bluffing Machine: Large Language Models as Strategic Deceivers in Crisis Bargaining](https://github.com/TapangIvoTanku/the-bluffing-machine)
 
----
+This project runs the first formal experimental test of whether Large Language Models (LLMs) can engage in **strategic deception** in a crisis bargaining context. We test three frontier LLMs across 900 simulated crisis interactions and introduce the **Signal-Reason-Outcome (S-R-O)** qualitative coding framework to analyze model reasoning.
 
-## 🚀 Featured Project
-
-### [Epstein Files Research Tool](https://www.chomskytanku.com/epstein-files-research-tool)
-An AI-powered research tool that allows anyone to search, explore, and understand the Epstein court documents — making complex legal and investigative data accessible to the public. Built using Retrieval-Augmented Generation (RAG) and large language models.
+| | |
+|---|---|
+| 📖 **Paper** | [SSRN Preprint (Abstract ID: 6361838)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6361838) |
+| 📂 **Status** | Under review at the *Journal of Global Security Studies* (JoGSS-2026-084) |
+| 💻 **Code & Data** | [Full replication repository](https://github.com/TapangIvoTanku/the-bluffing-machine) |
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Research Interests & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+- **Research Areas:** International Security, Artificial Intelligence, Crisis Bargaining, Deterrence Theory, Computational Social Science, Foreign Policy Analysis
+- **Technical Skills:** Python (PyTorch, TensorFlow, Scikit-Learn), R, C++, Simulation & Modeling, Natural Language Processing (NLP), Agent-Based Modeling, Causal Inference
 
 ---
 
@@ -51,21 +41,15 @@ An AI-powered research tool that allows anyone to search, explore, and understan
 
 | | |
 |---|---|
-| 🎓 **Education** | PhD in Data Science, National University |
-| 💼 **Experience** | 10+ years across Fortune 100 companies |
-| 🏢 **Industries** | Technology, Marketing, Banking |
-| 📍 **Location** | Dallas, Texas |
-| 🌐 **Website** | [tapangivotanku.com](https://tapangivotanku.com) |
+| 🎓 **Education** | PhD Candidate, Political Science & Data Science, University at Buffalo, SUNY |
+| 🏢 **Affiliation** | Department of Political Science, University at Buffalo |
+| 📍 **Location** | Buffalo, New York |
 
 ---
 
 ## 📫 Get In Touch
 
-I'm always open to discussing data science, research collaborations, or interesting problems worth solving.
+I am always open to discussing research collaborations, speaking opportunities, or interesting problems at the intersection of AI and international security.
 
+- 📧 **Email:** [tapangiv@buffalo.edu](mailto:tapangiv@buffalo.edu)
 - 🌐 **Personal Site:** [tapangivotanku.com](https://tapangivotanku.com)
-- 📧 **Email:** [tapang@chomskytanku.com](mailto:tapang@chomskytanku.com)
-
----
-
-*"The goal is to turn data into information, and information into insight."*
